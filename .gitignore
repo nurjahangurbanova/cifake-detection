@@ -1,0 +1,15 @@
+.venv/
+venv/
+data/
+*.pth
+*.pt
+*.ckpt
+models/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+*.zip
+*.rar
+*.7z
